@@ -1,0 +1,6 @@
+2020/06/15 10:54:02 [warn] 9552#9816: "user" is not supported, ignored in .nginx/conf/nginx.conf:2
+2020/06/15 10:54:02 [emerg] 9552#9816: invalid number of arguments in "root" directive in .nginx/conf/nginx.conf:45
+2020/06/15 10:54:14 [warn] 6176#7416: "user" is not supported, ignored in .nginx/conf/nginx.conf:2
+2020/06/15 10:54:14 [emerg] 6176#7416: invalid number of arguments in "root" directive in .nginx/conf/nginx.conf:45
+2020/06/15 10:54:18 [emerg] 8816#6364: invalid number of arguments in "root" directive in .nginx/conf/nginx.conf:45
+2020/06/15 10:54:34 [emerg] 7700#2304: invalid number of arguments in "root" directive in .nginx/conf/nginx.conf:45

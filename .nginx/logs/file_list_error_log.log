@@ -1,0 +1,6 @@
+2020/06/11 17:23:21 [error] 11988#8368: *10 ".nginx/html/releases/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: 0.0.0.0, request: "GET /releases/ HTTP/1.1", host: "localhost:4000"
+2020/06/11 17:26:11 [error] 2976#11692: *14 directory index of ".nginx/html" is forbidden, client: 127.0.0.1, server: 0.0.0.0, request: "GET /releases/ HTTP/1.1", host: "localhost:4000"
+2020/06/11 17:26:47 [error] 4100#11456: *16 ".n/c/workindex.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: 0.0.0.0, request: "GET /releases/ HTTP/1.1", host: "localhost:4000"
+2020/06/11 17:26:56 [error] 4100#11456: *20 ".n/c/workindex.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: 0.0.0.0, request: "GET /releases/ HTTP/1.1", host: "localhost:4000"
+2020/06/11 17:26:58 [error] 4100#11456: *19 ".n/c/workindex.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: 0.0.0.0, request: "GET /releases/ HTTP/1.1", host: "localhost:4000"
+2020/06/11 17:27:01 [error] 10380#10604: *23 directory index of "C:/work" is forbidden, client: 127.0.0.1, server: 0.0.0.0, request: "GET /releases/ HTTP/1.1", host: "localhost:4000"
