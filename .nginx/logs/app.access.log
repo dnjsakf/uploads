@@ -357,3 +357,5 @@
 127.0.0.1 - - [15/Jun/2020:10:57:52 +0900] "GET /download/filebeat-7.3.1.zip HTTP/1.1" 200 20225410 "http://localhost:4000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36"
 127.0.0.1 - - [15/Jun/2020:11:07:10 +0900] "GET / HTTP/1.1" 200 565 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36"
 127.0.0.1 - - [15/Jun/2020:12:27:33 +0900] "GET /files HTTP/1.1" 404 232 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36"
+127.0.0.1 - - [15/Jun/2020:12:29:51 +0900] "GET /files/ HTTP/1.1" 404 232 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36"
+127.0.0.1 - - [15/Jun/2020:12:29:55 +0900] "GET /static HTTP/1.1" 404 232 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36"
